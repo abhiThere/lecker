@@ -1,4 +1,4 @@
-# lecker-app
+# Lecker App
 
 🍱 Lecker
 
