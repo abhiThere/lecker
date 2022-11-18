@@ -13,5 +13,5 @@ The total amount of all chosen meals gets displayed and the user can proceed to 
 A checkout form appears for the user to fill out and confirm the order.
 After confirming the order, a success message pops up indicating that the order has been placed successfully.
 
-This web app is developed using React for delivering the best user experience.
+This web app is developed using React for building a modern user interface that delivers the best user experience.
 
