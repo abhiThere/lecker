@@ -25,7 +25,7 @@ After confirming the order, a success message pops up indicating that the order 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 [React](https://reactjs.org/)
-[![MIT License][license-shield]][license-url]
+[license-shield]][license-url]
 
 # Acknowledgements
 
@@ -34,5 +34,6 @@ This web app is developed using React for building a modern user interface that 
 
 
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[license-url]: https://github.com/abhiThere/lecker
 
 
