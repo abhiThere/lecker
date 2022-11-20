@@ -25,11 +25,14 @@ After confirming the order, a success message pops up indicating that the order 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 [React](https://reactjs.org/)
+[![MIT License][license-shield]][license-url]
 
 # Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 
+
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 
 
