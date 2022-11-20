@@ -2,7 +2,7 @@
 
 A food order web application to order delicious food for some special occasion.
 
-The web app is live at Lecker
+The web app is live at [Lecker](https://abhithere.github.io/lecker/)
 
 # Description
 
