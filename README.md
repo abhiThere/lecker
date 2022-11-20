@@ -1,8 +1,10 @@
-# Lecker App: https://abhithere.github.io/lecker/
-
-🍱 Lecker 
+## Lecker 🍱
 
 A food order web application to order delicious food for some special occasion.
+
+* [Lecker App](https://abhithere.github.io/lecker/)
+
+## Description
 
 Lecker is a food order web app for foodies to order delicious food for any special occasion.
 This web app presents a broad range of exotic meals for the users to choose from.
@@ -13,5 +15,9 @@ The total amount of all chosen meals gets displayed and the user can proceed to 
 A checkout form appears for the user to fill out and confirm the order.
 After confirming the order, a success message pops up indicating that the order has been placed successfully.
 
+### Built With
 This web app is developed using React for building a modern user interface that delivers the best user experience.
+
+* [React](https://reactjs.org/)
+
 
