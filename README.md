@@ -1,6 +1,6 @@
-# Lecker App
+# Lecker App: https://abhithere.github.io/lecker/
 
-🍱 Lecker: https://abhithere.github.io/lecker/
+🍱 Lecker 
 
 A food order web application to order delicious food for some special occasion.
 
