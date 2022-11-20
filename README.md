@@ -24,6 +24,7 @@ Item 1Item 2Item 3Item 4Item
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 * [React](https://reactjs.org/)
+http://github.com – automatic! [GitHub](http://github.com)
 
 # Credits
 
