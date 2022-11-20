@@ -2,7 +2,7 @@
 
 A food order web application to order delicious food for some special occasion.
 
-* [Lecker App](https://abhithere.github.io/lecker/)
+Lecker App Link: [Lecker App](https://abhithere.github.io/lecker/)
 
 # Description
 
@@ -25,10 +25,6 @@ After confirming the order, a success message pops up indicating that the order 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 [React](https://reactjs.org/)
-
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
 
 # Credits
 
