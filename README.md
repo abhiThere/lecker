@@ -24,10 +24,10 @@ After confirming the order, a success message pops up indicating that the order 
 # Tech used
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
-* [React](https://reactjs.org/)
-[![MIT License][license-shield]][license-url]
+[React](https://reactjs.org/)
 
 # Credits
 
+[Font Awesome](https://fontawesome.com)
 
 
