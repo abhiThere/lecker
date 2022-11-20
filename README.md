@@ -26,7 +26,7 @@ This web app is developed using React for building a modern user interface that 
 
 [React](https://reactjs.org/)
 
-# Credits
+# Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
