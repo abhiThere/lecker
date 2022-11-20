@@ -1,4 +1,4 @@
-## Lecker 🍱
+# Lecker 🍱
 
 A food order web application to order delicious food for some special occasion.
 
@@ -15,9 +15,17 @@ The total amount of all chosen meals gets displayed and the user can proceed to 
 A checkout form appears for the user to fill out and confirm the order.
 After confirming the order, a success message pops up indicating that the order has been placed successfully.
 
-### Built With
+# Features
+
+Item 1Item 2Item 3Item 4Item
+
+
+# Tech used
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 * [React](https://reactjs.org/)
+
+# Credits
+
 
 
