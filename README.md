@@ -25,7 +25,7 @@ After confirming the order, a success message pops up indicating that the order 
 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
-[![React][react-shield]][react-url]
+React
 
 # Acknowledgements
 
