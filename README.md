@@ -2,7 +2,7 @@
 
 A food order web application to order delicious food for some special occasion.
 
-The web app is live at [Lecker](https://abhithere.github.io/lecker/)
+The web app is live at Lecker
 
 # Description
 
@@ -25,7 +25,7 @@ After confirming the order, a success message pops up indicating that the order 
 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
-React
+[![React][react-shield]][react-url]
 
 # Acknowledgements
 
