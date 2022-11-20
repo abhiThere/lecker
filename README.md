@@ -21,10 +21,13 @@ After confirming the order, a success message pops up indicating that the order 
 * Set quantity for each meal and increase or decrease it.
 * Order meals from the cart.
 
-# Tech used
+# Built With
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 [React](https://reactjs.org/)
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
 
 # Credits
 
