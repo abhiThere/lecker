@@ -22,14 +22,15 @@ After confirming the order, a success message pops up indicating that the order 
 * Order meals from the cart.
 
 # Built With
+
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 [![React][react-shield]][react-url]
+[react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react-url]: https://reactjs.org/
 
 # Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 
-[react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[react-url]: https://reactjs.org/
