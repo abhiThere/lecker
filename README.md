@@ -28,6 +28,8 @@ This web app is developed using React for building a modern user interface that 
 
 # Credits
 
-[Font Awesome](https://fontawesome.com)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+
 
 
