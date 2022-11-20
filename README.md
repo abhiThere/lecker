@@ -24,17 +24,10 @@ After confirming the order, a success message pops up indicating that the order 
 # Built With
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
-[React](https://reactjs.org/)
-
-[![MIT License][license-shield]][license-url]
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://github.com/abhiThere/lecker
-
 
