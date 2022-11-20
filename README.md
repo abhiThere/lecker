@@ -26,7 +26,7 @@ This web app is developed using React for building a modern user interface that 
 
 [React](https://reactjs.org/)
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
