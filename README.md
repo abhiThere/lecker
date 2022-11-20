@@ -17,14 +17,14 @@ After confirming the order, a success message pops up indicating that the order 
 
 # Features
 
-Item 1Item 2Item 3Item 4Item
-
+* Add favorite meals to the cart.
+* Set quantity for each meal and increase or decrease it.
+* Order meals from the cart.
 
 # Tech used
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 * [React](https://reactjs.org/)
-http://github.com – automatic! [GitHub](http://github.com)
 
 # Credits
 
