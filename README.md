@@ -17,8 +17,9 @@ After confirming the order, a success message pops up indicating that the order 
 
 # Features
 
+* View the list of exotic meals.
 * Add favorite meals to the cart.
-* Set quantity for each meal and increase or decrease it.
+* Set the quantity for each meal and increase or decrease it.
 * Order meals from the cart.
 
 # Built With
