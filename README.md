@@ -2,6 +2,8 @@
 
 A food order web application to order delicious food for some special occasion.
 
+The web app is live at [Lecker](https://abhithere.github.io/lecker/)
+
 # Description
 
 Lecker is a food order web app for foodies to order delicious food for any special occasion.
