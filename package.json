@@ -1,6 +1,6 @@
 {
   "homepage": "https://abhiThere.github.io/lecker",
-  "name": "lecker-app",
+  "name": "lecker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
