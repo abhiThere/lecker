@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/lecker/static/css/main.b5f06038.chunk.css",
-    "main.js": "/lecker/static/js/main.dee974c1.chunk.js",
-    "main.js.map": "/lecker/static/js/main.dee974c1.chunk.js.map",
-    "runtime-main.js": "/lecker/static/js/runtime-main.93434277.js",
-    "runtime-main.js.map": "/lecker/static/js/runtime-main.93434277.js.map",
-    "static/js/2.acc3f912.chunk.js": "/lecker/static/js/2.acc3f912.chunk.js",
-    "static/js/2.acc3f912.chunk.js.map": "/lecker/static/js/2.acc3f912.chunk.js.map",
+    "main.js": "/lecker/static/js/main.c95e54df.chunk.js",
+    "main.js.map": "/lecker/static/js/main.c95e54df.chunk.js.map",
+    "runtime-main.js": "/lecker/static/js/runtime-main.1e5f6046.js",
+    "runtime-main.js.map": "/lecker/static/js/runtime-main.1e5f6046.js.map",
+    "static/js/2.a8c0e647.chunk.js": "/lecker/static/js/2.a8c0e647.chunk.js",
+    "static/js/2.a8c0e647.chunk.js.map": "/lecker/static/js/2.a8c0e647.chunk.js.map",
     "index.html": "/lecker/index.html",
     "static/css/main.b5f06038.chunk.css.map": "/lecker/static/css/main.b5f06038.chunk.css.map",
-    "static/js/2.acc3f912.chunk.js.LICENSE.txt": "/lecker/static/js/2.acc3f912.chunk.js.LICENSE.txt",
+    "static/js/2.a8c0e647.chunk.js.LICENSE.txt": "/lecker/static/js/2.a8c0e647.chunk.js.LICENSE.txt",
     "static/media/meals.2971f633.jpg": "/lecker/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93434277.js",
-    "static/js/2.acc3f912.chunk.js",
+    "static/js/runtime-main.1e5f6046.js",
+    "static/js/2.a8c0e647.chunk.js",
     "static/css/main.b5f06038.chunk.css",
-    "static/js/main.dee974c1.chunk.js"
+    "static/js/main.c95e54df.chunk.js"
   ]
 }
