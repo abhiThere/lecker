@@ -24,6 +24,7 @@ After confirming the order, a success message pops up indicating that the order 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
 
 [![React][react-shield]][react-url]
+[![CSS][css-shield]][css-url]
 
 # Acknowledgements
 
@@ -34,3 +35,5 @@ This web app is developed using React for building a modern user interface that 
 <!-- REFERENCE VARIABLES -->
 [react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-url]: https://reactjs.org/
+[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://www.w3.org/Style/CSS/Overview.en.html
