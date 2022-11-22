@@ -24,7 +24,7 @@ After confirming the order, a success message pops up indicating that the order 
 
 # 📷 Screenshots
 
-![Meals Summary](https://user-images.githubusercontent.com/74660692/203372806-c1ec987a-ad8b-413b-85d1-3edbfbfa6bd9.png "Meals Summary")
+![Meals Summary](https://user-images.githubusercontent.com/74660692/203372806-c1ec987a-ad8b-413b-85d1-3edbfbfa6bd9.png)
 
 
 ![Meals List](https://user-images.githubusercontent.com/74660692/203372863-608cfe77-8bd5-4d03-bd16-77aa815c205c.png)
