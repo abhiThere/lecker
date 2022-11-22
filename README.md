@@ -24,6 +24,17 @@ After confirming the order, a success message pops up indicating that the order 
 
 # 📷 Screenshots
 
+![Meals Summary](https://user-images.githubusercontent.com/74660692/203372806-c1ec987a-ad8b-413b-85d1-3edbfbfa6bd9.png)
+
+
+![Meals List](https://user-images.githubusercontent.com/74660692/203372863-608cfe77-8bd5-4d03-bd16-77aa815c205c.png)
+
+
+![Checkout Form](https://user-images.githubusercontent.com/74660692/203372968-53f44d7f-8f06-4fbf-9ab1-a3e9a326177a.png)
+
+
+![Order Success Modal](https://user-images.githubusercontent.com/74660692/203373014-ad5f9062-85bb-48db-b9bf-567bfb369bbc.png)
+
 # 👨‍💻 Built With
 
 This web app is developed using React for building a modern user interface that delivers the best user experience.
