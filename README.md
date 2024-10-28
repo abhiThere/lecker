@@ -20,7 +20,7 @@ After confirming the order, a success message pops up indicating that the order 
 * Browse and select from a wide variety of exotic meals.
 * Add favourite meals to the cart.
 * Set a quantity for each meal and view its price subsequently.
-* Place an order for the meals in the cart.
+* Order meals in the cart.
 
 # 📷 Screenshots
 
@@ -37,7 +37,7 @@ After confirming the order, a success message pops up indicating that the order 
 
 # 👨‍💻 Built With
 
-This web app is developed using React for building a modern user interface that delivers the best user experience.
+This web app is developed using React and React Context API to deliver an intuitive user experience.
 
 * [![React][react-shield]][react-url]
 * [![CSS][css-shield]][css-url]
