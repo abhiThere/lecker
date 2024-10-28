@@ -11,7 +11,7 @@ The web app showcases a wide variety of exotic meals to browse and select from.
 The users can add their favourite meals to the cart and set their respective quantities.
 Selected meals with their respective quantities and prices show up in the cart with a badge displaying the total number of meals.
 The quantity of each meal can be increased or decreased based on user's preference.
-The total amount of all the meals is displayed and the user can proceed to order.
+The total amount for all the meals is displayed and the user can proceed to order.
 A checkout form appears for the user to fill out and confirm their order.
 After confirming the order, a success message pops up indicating that the order has been placed successfully.
 
