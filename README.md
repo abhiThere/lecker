@@ -9,8 +9,8 @@ The web app is live at [Lecker](https://abhithere.github.io/lecker/)
 Lecker is a food ordering web application for foodies to order delicious meals on special occasions.
 The web app showcases a wide variety of exotic meals to browse and select from.
 The users can add their favourite meals to the cart and set their respective quantities.
-A list of selected meals with their quantity and price shows up in the cart with a badge displaying the number of meals currently in the cart.
-The quantity of each meal in the cart can be increased or decreased based on user's preference.
+Selected meals with their respective quantities and prices show up in the cart with a badge displaying the total number of meals.
+The quantity of each meal can be increased or decreased based on user's preference.
 The total amount of all the meals is displayed and the user can proceed to order.
 A checkout form appears for the user to fill out and confirm their order.
 After confirming the order, a success message pops up indicating that the order has been placed successfully.
@@ -19,8 +19,8 @@ After confirming the order, a success message pops up indicating that the order 
 
 * Browse and select from a wide variety of exotic meals.
 * Add favourite meals to the cart.
-* Set the quantity for each meal.
-* Order meals in the cart.
+* Set a quantity for each meal and view its price subsequently.
+* Place an order for the meals in the cart.
 
 # 📷 Screenshots
 
